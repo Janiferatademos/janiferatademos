@@ -9,7 +9,7 @@
 - 👨‍🎓 Participante do Curso Oracle Next Education e Alura.
 - 💕 Estudando Java Script.
 - 💕 Estudando Java
-- 💕 Estudando Banco de Dados.
+- 💕 Estudando Banco de Dados (MySql e MongoDB).
 - 📘 Estudando Designer Ux/Ui.
 
 <div align="center">
