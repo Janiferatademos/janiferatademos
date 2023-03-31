@@ -1,9 +1,15 @@
-  Oii! eu sou a Janifer Atademos
+  Oii! eu sou a Janifer Atademos,apaixonada por tecnologia e pelos estudos .
 
 
-- 👨‍🎓 Formada pela Recode Full Stack jr.   
-- 👨‍🎓 Anãlise e desenvolvimento de Sistemas.
+   
+- 👨‍🎓 Formada em Análise e desenvolvimento de Sistemas.(Unip)
+- 👨‍🎓 Formada pela Recode Full Stack jr.
+- 👨‍🎓 Cursando Pedagogia 3/6.(Crueiro do Sul)
+- 👨‍🎓 Participante do Bootcamp Dio e Banco Pan.
+- 👨‍🎓 Participante do Curso Oracle Next Education e Alura.
 - 💕 Estudando Java Script.
+- 💕 Estudando Java
+- 💕 Estudando Banco de Dados.
 - 📘 Estudando Designer Ux/Ui.
 
 <div align="center">
