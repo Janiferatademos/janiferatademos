@@ -1,5 +1,5 @@
  <div align="right">
- <img     height="100em"width="25%" src="https://64.media.tumblr.com/ec90e55981cd01a3e1a69e724967a31c/tumblr_ntb1nzAguK1qc4uvwo1_500.gifv"/> 
+ <img     height="100em"width="30%" src="https://64.media.tumblr.com/ec90e55981cd01a3e1a69e724967a31c/tumblr_ntb1nzAguK1qc4uvwo1_500.gifv"/> 
   </div>
   Oii! eu sou a Janifer Atademos,apaixonada por tecnologia e pelos estudos .<br><br>
 
