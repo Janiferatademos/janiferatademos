@@ -1,7 +1,9 @@
-  Oii! eu sou a Janifer Atademos,apaixonada por tecnologia e pelos estudos .
+ <div align="right">
+ <img     height="100em"width="25%" src="https://64.media.tumblr.com/ec90e55981cd01a3e1a69e724967a31c/tumblr_ntb1nzAguK1qc4uvwo1_500.gifv"/> 
+  </div>
+  Oii! eu sou a Janifer Atademos,apaixonada por tecnologia e pelos estudos .<br><br>
 
 
-   
 - 👨‍🎓 Formada em Análise e desenvolvimento de Sistemas.(Unip)
 - 👨‍🎓 Formada pela Recode Full Stack jr.
 - 👨‍🎓 Cursando Pedagogia 3/6.(Crueiro do Sul)
@@ -30,7 +32,8 @@
   <img align="center" alt="Janifer-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Janifer-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    <img align="center" alt="Janifer-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  
+ 
+ 
 </div> 
        
 
