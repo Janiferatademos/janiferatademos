@@ -6,7 +6,7 @@
 
 - 👨‍🎓 Formada em Análise e desenvolvimento de Sistemas.(Unip)
 - 👨‍🎓 Formada pela Recode Full Stack jr.
-- 👨‍🎓 Cursando Pedagogia 3/6.(Crueiro do Sul)
+- 👨‍🎓 Cursando Pedagogia 5/6.(Cruzeiro do Sul)
 - 👨‍🎓 Participante do Bootcamp Dio e Banco Pan.
 - 👨‍🎓 Participante do Curso Oracle Next Education e Alura.
 - 💕 Estudando Java Script.
